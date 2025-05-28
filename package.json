@@ -1,0 +1,12 @@
+{
+  "name": "idea-board",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "pnpm install --prefix backend && pnpm install --prefix frontend && pnpm --prefix frontend build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
